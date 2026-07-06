@@ -2,7 +2,7 @@
 using namespace std;
   int main() {
     
-    string Name = "George Precious Ubong";
+    string Name = "George,Precious Ubong";
     string MatriculationNumber = "25/EG/CO/100";
     string Department = "Computer Engineering";
 
